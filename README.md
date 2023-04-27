@@ -1,4 +1,4 @@
-# Covid-19 Analysis
+# Covid-19 Analysis using R (Tidyverse, ggplot, dplyr)
 
 The New York Times (the Times) has aggregated reported COVID-19 data from state and local governments and health departments since 2020 and provides public access through a repository on GitHub. One of the data sets provided by the Times is county-level data for cumulative cases and deaths each day. This is primary data set for the first two parts of analysis. Additionally, county-level population estimates reported by the US Census Bureau for the years 2010 to 2021 are used as well.
 
